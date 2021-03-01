@@ -1,1 +1,0 @@
-{"version":3,"sources":["assets/js/index.js"],"names":["console","log"],"mappings":";AAAAA,QAAQC,IAAI","file":"js.abb352ab.js","sourceRoot":"..\\src","sourcesContent":["console.log(\"Hello world\");\n"]}
