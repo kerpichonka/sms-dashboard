@@ -7,18 +7,29 @@ module.exports = {
                 'image': "url('/assets/img/bgr-image.jpg')",
                }),
             spacing: {
-                '444': '444px',
+                '217': '217px',
+                '325': '325px',
+                '57': '57px',
+                '60': '60px',
+                '2': '2px'
             },
             margin: {
                 '43': '43px',
             },
             maxWidth: {
-                '1110': '1110px',
+                '1142': '1142px',
             }
         },
         fontFamily: {
             'body': ['Proxima Nova', 'sans-serif']
         },
+        fontSize: {
+            'main': '16px',
+            'header': ['1rem', '1rem']
+        },
+        screens: {
+            'tablet': '880px',
+        }
     },
     variants: {
         extend: {},
